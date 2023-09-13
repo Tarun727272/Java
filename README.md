@@ -71,3 +71,10 @@ Radius = 7.5
 Expected Output
 Perimeter is = 47.12388980384689
 Area is = 176.71458676442586
+
+11-Write a Java program to add two binary numbers.
+Input Data:
+Input first binary number: 10
+Input second binary number: 11
+Expected Output
+Sum of two binary numbers: 101
